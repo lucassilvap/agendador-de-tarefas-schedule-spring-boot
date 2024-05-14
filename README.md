@@ -1,0 +1,1 @@
+A anotação @schedule serve pra agendar a execução de uma tarefa. Então você anota o metódo. Determina a quantidade de tempo em que o metódo deve ser executado. E coloca o que o metódo deve fazer. Nesse exemplo ele mostra a data e a hora a cada 2,5 seg.
